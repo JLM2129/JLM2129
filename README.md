@@ -56,7 +56,7 @@ Instalación
 
 1. Clona este repositorio:
 
-git clone https://github.com/JLM2129/desafioForo.git
+https://github.com/JLM2129/JLM2129.git
 
 2. Accede al directorio del proyecto:
 
